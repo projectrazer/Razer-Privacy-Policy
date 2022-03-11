@@ -124,8 +124,7 @@
 <p>18. <b>Links to Other Sites</b></p>
 <p>Our Service may contain links to other sites that are not operated by us. If you click a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.</p>
 <p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
-<p>For example, the outlined <a href="https://policymaker.io/privacy-policy/">privacy policy</a> has been made using <a href="https://policymaker.io/">PolicyMaker.io</a>, a free tool that helps create high-quality legal documents. PolicyMaker’s <a href="https://policymaker.io/privacy-policy/">privacy policy generator</a> is an easy-to-use tool for creating a <a href="https://policymaker.io/blog-privacy-policy/">privacy policy for blog</a>, website, e-commerce store or mobile app.</p>
-<p>19. <b><b>Children’s Privacy</b></b></p>
+
 <p>Our Services are not intended for use by children under the age of 18 (<b>“Child”</b> or <b>“Children”</b>).</p>
 <p>We do not knowingly collect personally identifiable information from Children under 18. If you become aware that a Child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from Children without verification of parental consent, we take steps to remove that information from our servers.</p>
 <p>20. <b>Changes to This Privacy Policy</b></p>
@@ -134,4 +133,4 @@
 <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
 <p>21. <b>Contact Us</b></p>
 <p>If you have any questions about this Privacy Policy, please contact us by email: <b>officialrazer@protonmail.com</b>.</p>
-<p style="margin-top: 5em; font-size: 0.7em;">This <a href="https://policymaker.io/privacy-policy/">Privacy Policy</a> was created for <b>www.officialrazer.xyz</b> by <a href="https://policymaker.io">PolicyMaker.io</a> on 2022-03-10.</p>
+<p>©2022 Razer, Inc. All rights reserved.</p>
