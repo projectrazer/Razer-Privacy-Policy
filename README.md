@@ -1,4 +1,4 @@
-<h2 style="text-align: center;"><b>PRIVACY POLICY</b></h2>
+<h1 align="center"><b>PRIVACY POLICY</b></h2>
 <p>Effective date: 2022-03-10</p>
 <p>At Project Razer, accessible from officialrazer.xyz and ivongiveaways.com one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Project Razer and how we use it.</p>
 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
