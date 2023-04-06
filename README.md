@@ -1,6 +1,6 @@
 <h1 align="center"><b>PRIVACY POLICY</b></h2>
 <h6 align="right">Effective date: 2022-03-10</h6>
-<p>At Project Razer, accessible from officialrazer.xyz , ivongiveaways.com and dovemusic.xyz one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Project Razer and how we use it.</p>
+<p>At Project Razer, accessible from officialrazer.xyz, openjourneybot.com ivongiveaways.com and dovemusic.xyz one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Project Razer and how we use it.</p>
 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 <p>This Privacy Policy applies only to our online activities and is valid for visitors to our website and the bots regards to the information that they shared and/or collect in Project Razer. This policy is not applicable to any information collected offline or via channels other than this website.</p>
 <h2>Consent</h2>
